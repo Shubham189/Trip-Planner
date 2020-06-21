@@ -1,5 +1,5 @@
 # Trip-Planner
-##A well organized trip planner that can be used to keep track and plan trips for the future.
+## A well organized trip planner that can be used to keep track and plan trips for the future.
 
 This is a website designed to help you in keeping track of your past travels and future travels in one place which can be filtered in 3  ways : Club, Trek, and tropics.
 
